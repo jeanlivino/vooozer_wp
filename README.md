@@ -17,7 +17,7 @@ Plugin Vooozer para WordPress inclui os seguintes arquivos:
 
 ## Instalação
 
-* Baixe o arquivo deste repositório;
+* Baixe o arquivo deste repositório https://github.com/jeanlivino/vooozer_wp/archive/master.zip;
 * Na área administrativa de seu WordPress acesse o menu Plugins -> Adicionar Novo -> Enviar/Fazer upload do plugin -> aponte para o caminho do arquivo vooozer.zip e selecione Instalar Agora;
 * Clique em ativar
 
