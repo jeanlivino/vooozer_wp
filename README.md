@@ -26,4 +26,4 @@ Plugin Vooozer para WordPress inclui os seguintes arquivos:
 * Acesse a sua conta no Vooozer
 * Vá para este link https://go.vooozer.com/request/urlLists e selecione o aúdio desejado.
 * Copie o id que fica na url da página do aúdio após `https://go.vooozer.com/request?url=`
-* Va até o seu post no WordPress e insira o Shortcode `[vooozer id="123456"]`, substituindo o `123456` pelo id do seu aúdio.
+* Vá até o seu post no WordPress e insira o Shortcode `[vooozer id="123456"]`, substituindo o `123456` pelo id do seu aúdio.
